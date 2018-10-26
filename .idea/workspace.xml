@@ -2,25 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32519820-d714-4dbb-adea-e213bcf5a0fb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS06PointOnRectangleBorder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS07FruitShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS08TradeComissions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS09DayOfWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS10AnimalType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS11Cinema.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS12Volleyball.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS13PointInTheFigure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/simpleLoops/SL01NumbersFrom1To100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/simpleLoops/SL02NumbersEndingin7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/simpleLoops/SL03LatinLetters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/simpleLoops/SL04SumNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/simpleLoops/SL05MaxNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/simpleLoops/SL06MinNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/simpleLoops/SL07LeftAndRightSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/simpleLoops/SL08OddEvenSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/simpleLoops/SL09VowelsSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/simpleLoops/SL10HalfSumElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basic/com/company/FirstStepsInCoding/FSC06SquareOfStars.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basic/com/company/FirstStepsInCoding/FSC06SquareOfStars.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basic/com/company/simpleCalculations/SC12CurrencyConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basic/com/company/simpleCalculations/SC12CurrencyConverter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basic/com/company/simpleConditionalStatements/SCS01ExcellentResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basic/com/company/simpleConditionalStatements/SCS01ExcellentResult.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basic/com/company/simpleConditionalStatements/SCS02ExcellentOrNot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basic/com/company/simpleConditionalStatements/SCS02ExcellentOrNot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basic/com/company/simpleConditionalStatements/SCS03EvenOrOdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basic/com/company/simpleConditionalStatements/SCS03EvenOrOdd.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basic/com/company/simpleConditionalStatements/SCS04GreaterNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basic/com/company/simpleConditionalStatements/SCS04GreaterNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basic/com/company/simpleConditionalStatements/SCS05Number1_9ToText.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basic/com/company/simpleConditionalStatements/SCS05Number1_9ToText.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basic/com/company/simpleConditionalStatements/SCS06BonusScore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basic/com/company/simpleConditionalStatements/SCS06BonusScore.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basic/com/company/simpleConditionalStatements/SCS07SumSeconds.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basic/com/company/simpleConditionalStatements/SCS07SumSeconds.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basic/com/company/simpleConditionalStatements/SCS08MetricConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basic/com/company/simpleConditionalStatements/SCS08MetricConverter.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,101 +24,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CCS04FruitOrVegetable.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS04FruitOrVegetable.java">
+      <file leaf-file-name="SL01NumbersFrom1To100.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/simpleLoops/SL01NumbersFrom1To100.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="12" column="74" selection-end-line="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="80">
+              <caret line="4" column="28" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CCS05InvalidNumber.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS05InvalidNumber.java">
+      <file leaf-file-name="SL02NumbersEndingin7.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/simpleLoops/SL02NumbersEndingin7.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="200">
+              <caret line="10" column="13" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CCS06PointOnRectangleBorder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS06PointOnRectangleBorder.java">
+      <file leaf-file-name="SL03LatinLetters.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/simpleLoops/SL03LatinLetters.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="25" column="1" lean-forward="true" selection-end-line="26" />
+            <state relative-caret-position="100">
+              <caret line="5" column="32" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CCS07FruitShop.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS07FruitShop.java">
+      <file leaf-file-name="SL04SumNumbers.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/simpleLoops/SL04SumNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="19" column="49" selection-start-line="19" selection-end-line="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="300">
+              <caret line="15" column="32" selection-end-line="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CCS08TradeComissions.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS08TradeComissions.java">
+      <file leaf-file-name="SL05MaxNumber.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/simpleLoops/SL05MaxNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="10" column="10" lean-forward="true" selection-end-line="56" />
+            <state relative-caret-position="104">
+              <caret line="8" column="53" lean-forward="true" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CCS09DayOfWeek.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS09DayOfWeek.java">
+      <file leaf-file-name="SL06MinNumber.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/simpleLoops/SL06MinNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="36" column="1" selection-end-line="36" selection-end-column="1" />
+            <state relative-caret-position="384">
+              <caret line="20" column="33" selection-end-line="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CCS10AnimalType.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS10AnimalType.java">
+      <file leaf-file-name="SL07LeftAndRightSum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/simpleLoops/SL07LeftAndRightSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="21" column="39" selection-end-line="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="244">
+              <caret line="21" column="9" selection-end-line="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CCS11Cinema.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS11Cinema.java">
+      <file leaf-file-name="SL08OddEvenSum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/simpleLoops/SL08OddEvenSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="43">
-              <caret line="4" column="26" lean-forward="true" selection-end-line="24" />
+            <state relative-caret-position="389">
+              <caret line="28" lean-forward="true" selection-end-line="32" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CCS12Volleyball.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS12Volleyball.java">
+      <file leaf-file-name="SL09VowelsSum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/simpleLoops/SL09VowelsSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="31" column="32" lean-forward="true" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+            <state relative-caret-position="284">
+              <caret line="21" column="25" lean-forward="true" selection-end-line="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CCS13PointInTheFigure.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS13PointInTheFigure.java">
+      <file leaf-file-name="SL10HalfSumElement.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/simpleLoops/SL10HalfSumElement.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="31" column="26" selection-end-line="41" selection-end-column="1" />
+            <state relative-caret-position="140">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -146,16 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Expression02.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Nums03.java" />
-        <option value="$PROJECT_DIR$/src/com/company/RectangleArea04.java" />
-        <option value="$PROJECT_DIR$/src/com/company/RectangleArea05.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Triangleof55Stars04.java" />
-        <option value="$PROJECT_DIR$/src/com/company/SquareOfStars06.java" />
-        <option value="$PROJECT_DIR$/src/com/company/FirstStepsInCoding/simpleCalculations/SquareArea01.java" />
-        <option value="$PROJECT_DIR$/src/com/company/FirstStepsInCoding/simpleCalculations/SC01SquareArea.java" />
-        <option value="$PROJECT_DIR$/src/com/company/FirstStepsInCoding/FSC01HelloSoftUni.java" />
         <option value="$PROJECT_DIR$/src/com/company/simpleCalculations/SC02InchesToCentimeters.java" />
         <option value="$PROJECT_DIR$/src/com/company/simpleCalculations/SC03GreetingByName.java" />
         <option value="$PROJECT_DIR$/src/com/company/simpleCalculations/SC04ConcatenateData.java" />
@@ -197,6 +170,16 @@
         <option value="$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS11Cinema.java" />
         <option value="$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS12Volleyball.java" />
         <option value="$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS13PointInTheFigure.java" />
+        <option value="$PROJECT_DIR$/src/com/company/simpleLoops/SL01NumbersFrom1To100.java" />
+        <option value="$PROJECT_DIR$/src/com/company/simpleLoops/SL02NumbersEndingin7.java" />
+        <option value="$PROJECT_DIR$/src/com/company/simpleLoops/SL03LatinLetters.java" />
+        <option value="$PROJECT_DIR$/src/com/company/simpleLoops/SL04SumNumbers.java" />
+        <option value="$PROJECT_DIR$/src/com/company/simpleLoops/SL05MaxNumber.java" />
+        <option value="$PROJECT_DIR$/src/com/company/simpleLoops/SL06MinNumber.java" />
+        <option value="$PROJECT_DIR$/src/com/company/simpleLoops/SL07LeftAndRightSum.java" />
+        <option value="$PROJECT_DIR$/src/com/company/simpleLoops/SL08OddEvenSum.java" />
+        <option value="$PROJECT_DIR$/src/com/company/simpleLoops/SL09VowelsSum.java" />
+        <option value="$PROJECT_DIR$/src/com/company/simpleLoops/SL10HalfSumElement.java" />
       </list>
     </option>
   </component>
@@ -245,7 +228,7 @@
               <item name="basic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
-              <item name="complexConditionalStatements" type="462c0819:PsiDirectoryNode" />
+              <item name="simpleLoops" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -380,7 +363,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CCS13PointInTheFigure">
+  <component name="RunManager" selected="Application.SL09VowelsSum">
     <configuration name="CCS07FruitShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.complexConditionalStatements.CCS07FruitShop" />
       <module name="basic" />
@@ -411,16 +394,6 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="SCS07SumSeconds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.simpleConditionalStatements.SCS07SumSeconds" />
-      <module name="basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.simpleConditionalStatements.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration name="SCS08MetricConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.simpleConditionalStatements.SCS08MetricConverter" />
       <module name="basic" />
@@ -431,20 +404,30 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="SL09VowelsSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.simpleLoops.SL09VowelsSum" />
+      <module name="basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.simpleLoops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <list>
-      <item itemvalue="Application.SCS07SumSeconds" />
       <item itemvalue="Application.SCS08MetricConverter" />
       <item itemvalue="Application.CCS07FruitShop" />
       <item itemvalue="Application.CCS09DayOfWeek" />
       <item itemvalue="Application.CCS13PointInTheFigure" />
+      <item itemvalue="Application.SL09VowelsSum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SL09VowelsSum" />
         <item itemvalue="Application.CCS13PointInTheFigure" />
         <item itemvalue="Application.CCS09DayOfWeek" />
         <item itemvalue="Application.CCS07FruitShop" />
         <item itemvalue="Application.SCS08MetricConverter" />
-        <item itemvalue="Application.SCS07SumSeconds" />
       </list>
     </recent_temporary>
   </component>
@@ -458,7 +441,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540395470802</updated>
-      <workItem from="1540451267246" duration="10937000" />
+      <workItem from="1540451267246" duration="13224000" />
     </task>
     <task id="LOCAL-00001" summary="First tasks from Complex Conditional Statements">
       <created>1540454570845</created>
@@ -467,11 +450,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540454570845</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=" Complex Conditional Statements finished tasks">
+      <created>1540556971143</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1540556971143</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10937000" />
+    <option name="totallyTimeSpent" value="13224000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -545,7 +535,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First tasks from Complex Conditional Statements" />
-    <option name="LAST_COMMIT_MESSAGE" value="First tasks from Complex Conditional Statements" />
+    <MESSAGE value=" Complex Conditional Statements finished tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Complex Conditional Statements finished tasks" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -561,74 +552,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/simpleConditionalStatements/SCS15EqualNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="34" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/HelloSoftUni.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/company/simpleCalculations/SC01SquareArea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/FirstStepsInCoding/FSCTriangleOf55Stars.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/FirstStepsInCoding/FSC05RectangleArea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/FirstStepsInCoding/FSC02Expression.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/FirstStepsInCoding/FSC03Nums1To20.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/FirstStepsInCoding/FSC01HelloSoftUni.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#86#87#0" expanded="true" />
-            <element signature="e#122#123#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/FirstStepsInCoding/FSC06SquareOfStars.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/simpleCalculations/SC02InchesToCentimeters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/simpleCalculations/SC03GreetingByName.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -908,17 +831,87 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS12Volleyball.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="31" column="32" lean-forward="true" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS13PointInTheFigure.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="321">
           <caret line="31" column="26" selection-end-line="41" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS12Volleyball.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="31" column="32" lean-forward="true" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/simpleLoops/SL01NumbersFrom1To100.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="28" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/simpleLoops/SL02NumbersEndingin7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="13" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/simpleLoops/SL03LatinLetters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="32" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/simpleLoops/SL04SumNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="32" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/simpleLoops/SL05MaxNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="8" column="53" lean-forward="true" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/simpleLoops/SL06MinNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="20" column="33" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/simpleLoops/SL07LeftAndRightSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="21" column="9" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/simpleLoops/SL08OddEvenSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="28" lean-forward="true" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/simpleLoops/SL09VowelsSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="21" column="25" lean-forward="true" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/simpleLoops/SL10HalfSumElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
         </state>
       </provider>
     </entry>
