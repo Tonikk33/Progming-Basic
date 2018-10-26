@@ -2,13 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32519820-d714-4dbb-adea-e213bcf5a0fb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS01PersonalTitles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS02SmallShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS03PointInRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS04FruitOrVegetable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS05InvalidNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS06PointOnRectangleBorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS07FruitShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS08TradeComissions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS09DayOfWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS10AnimalType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS11Cinema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS12Volleyball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS13PointInTheFigure.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/com/company/FirstStepsInCoding/FSC06SquareOfStars.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basic/com/company/FirstStepsInCoding/FSC06SquareOfStars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/com/company/simpleCalculations/SC12CurrencyConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basic/com/company/simpleCalculations/SC12CurrencyConverter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/com/company/simpleConditionalStatements/SCS01ExcellentResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basic/com/company/simpleConditionalStatements/SCS01ExcellentResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/com/company/simpleConditionalStatements/SCS02ExcellentOrNot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basic/com/company/simpleConditionalStatements/SCS02ExcellentOrNot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/com/company/simpleConditionalStatements/SCS03EvenOrOdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basic/com/company/simpleConditionalStatements/SCS03EvenOrOdd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/com/company/simpleConditionalStatements/SCS04GreaterNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basic/com/company/simpleConditionalStatements/SCS04GreaterNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/com/company/simpleConditionalStatements/SCS05Number1_9ToText.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basic/com/company/simpleConditionalStatements/SCS05Number1_9ToText.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/com/company/simpleConditionalStatements/SCS06BonusScore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basic/com/company/simpleConditionalStatements/SCS06BonusScore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/com/company/simpleConditionalStatements/SCS07SumSeconds.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basic/com/company/simpleConditionalStatements/SCS07SumSeconds.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/com/company/simpleConditionalStatements/SCS08MetricConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basic/com/company/simpleConditionalStatements/SCS08MetricConverter.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,33 +32,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CCS01PersonalTitles.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS01PersonalTitles.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" column="59" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CCS02SmallShop.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS02SmallShop.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="59" column="29" lean-forward="true" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CCS03PointInRectangle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS03PointInRectangle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="18" column="39" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CCS04FruitOrVegetable.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS04FruitOrVegetable.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -59,11 +44,89 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CCS05InvalidNumber.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CCS05InvalidNumber.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS05InvalidNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="49" selection-end-line="17" />
+            <state relative-caret-position="340">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CCS06PointOnRectangleBorder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS06PointOnRectangleBorder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="25" column="1" lean-forward="true" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CCS07FruitShop.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS07FruitShop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="19" column="49" selection-start-line="19" selection-end-line="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CCS08TradeComissions.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS08TradeComissions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="10" column="10" lean-forward="true" selection-end-line="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CCS09DayOfWeek.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS09DayOfWeek.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="303">
+              <caret line="36" column="1" selection-end-line="36" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CCS10AnimalType.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS10AnimalType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="383">
+              <caret line="21" column="39" selection-end-line="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CCS11Cinema.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS11Cinema.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="43">
+              <caret line="4" column="26" lean-forward="true" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CCS12Volleyball.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS12Volleyball.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="31" column="32" lean-forward="true" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CCS13PointInTheFigure.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS13PointInTheFigure.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="321">
+              <caret line="31" column="26" selection-end-line="41" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -126,6 +189,14 @@
         <option value="$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS03PointInRectangle.java" />
         <option value="$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS04FruitOrVegetable.java" />
         <option value="$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS05InvalidNumber.java" />
+        <option value="$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS06PointOnRectangleBorder.java" />
+        <option value="$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS07FruitShop.java" />
+        <option value="$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS08TradeComissions.java" />
+        <option value="$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS09DayOfWeek.java" />
+        <option value="$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS10AnimalType.java" />
+        <option value="$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS11Cinema.java" />
+        <option value="$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS12Volleyball.java" />
+        <option value="$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS13PointInTheFigure.java" />
       </list>
     </option>
   </component>
@@ -187,6 +258,116 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/README.md</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -199,33 +380,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SCS08MetricConverter">
-    <configuration name="SC10RadiansToDegrees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.simpleCalculations.SC10RadiansToDegrees" />
+  <component name="RunManager" selected="Application.CCS13PointInTheFigure">
+    <configuration name="CCS07FruitShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.complexConditionalStatements.CCS07FruitShop" />
       <module name="basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.simpleCalculations.*" />
+          <option name="PATTERN" value="com.company.complexConditionalStatements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="SC12CurrencyConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.simpleCalculations.SC12CurrencyConverter" />
+    <configuration name="CCS09DayOfWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.complexConditionalStatements.CCS09DayOfWeek" />
       <module name="basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.simpleCalculations.*" />
+          <option name="PATTERN" value="com.company.complexConditionalStatements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="SC13DaysAfterBirth1000" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.simpleCalculations.SC13DaysAfterBirth1000" />
+    <configuration name="CCS13PointInTheFigure" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.complexConditionalStatements.CCS13PointInTheFigure" />
       <module name="basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.simpleCalculations.*" />
+          <option name="PATTERN" value="com.company.complexConditionalStatements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -251,19 +432,19 @@
       </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.SC10RadiansToDegrees" />
-      <item itemvalue="Application.SC12CurrencyConverter" />
-      <item itemvalue="Application.SC13DaysAfterBirth1000" />
       <item itemvalue="Application.SCS07SumSeconds" />
       <item itemvalue="Application.SCS08MetricConverter" />
+      <item itemvalue="Application.CCS07FruitShop" />
+      <item itemvalue="Application.CCS09DayOfWeek" />
+      <item itemvalue="Application.CCS13PointInTheFigure" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CCS13PointInTheFigure" />
+        <item itemvalue="Application.CCS09DayOfWeek" />
+        <item itemvalue="Application.CCS07FruitShop" />
         <item itemvalue="Application.SCS08MetricConverter" />
         <item itemvalue="Application.SCS07SumSeconds" />
-        <item itemvalue="Application.SC13DaysAfterBirth1000" />
-        <item itemvalue="Application.SC12CurrencyConverter" />
-        <item itemvalue="Application.SC10RadiansToDegrees" />
       </list>
     </recent_temporary>
   </component>
@@ -277,12 +458,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540395470802</updated>
-      <workItem from="1540451267246" duration="3204000" />
+      <workItem from="1540451267246" duration="10937000" />
     </task>
+    <task id="LOCAL-00001" summary="First tasks from Complex Conditional Statements">
+      <created>1540454570845</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1540454570845</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3204000" />
+    <option name="totallyTimeSpent" value="10937000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -290,6 +479,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32905984" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
@@ -297,25 +487,24 @@
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32905984" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32842416" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32763532" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49775785" visible="true" weight="0.2590604" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49775785" visible="true" weight="0.2590604" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" sideWeight="0.50224215" side_tool="true" weight="0.25302014" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24966443" />
       <window_info id="UI Designer" order="5" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.50224215" side_tool="true" weight="0.25302014" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.34020618" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.33903134" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32905984" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="4" />
@@ -354,63 +543,24 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First tasks from Complex Conditional Statements" />
+    <option name="LAST_COMMIT_MESSAGE" value="First tasks from Complex Conditional Statements" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS07FruitShop.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/simpleConditionalStatements/SCS07SumSeconds.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="26" column="14" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/simpleConditionalStatements/SCS08MetricConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="54" column="23" lean-forward="true" selection-end-line="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/simpleConditionalStatements/SCS09PasswordGuess.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="47" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/simpleConditionalStatements/SCS10Number100To200.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="43" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/simpleConditionalStatements/SCS11EqualWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="34" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/simpleConditionalStatements/SCS12SpeedInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="26" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/simpleConditionalStatements/SCS13AreaOfFigures.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/simpleConditionalStatements/SCS14Time15Minutes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="18" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/simpleConditionalStatements/SCS15EqualNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -705,8 +855,70 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS05InvalidNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="49" selection-end-line="17" />
+        <state relative-caret-position="340">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS06PointOnRectangleBorder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="25" column="1" lean-forward="true" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS08TradeComissions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="10" column="10" lean-forward="true" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS09DayOfWeek.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="36" column="1" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS07FruitShop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="49" selection-start-line="19" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS10AnimalType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="21" column="39" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS11Cinema.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="4" column="26" lean-forward="true" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS12Volleyball.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="31" column="32" lean-forward="true" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS13PointInTheFigure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="31" column="26" selection-end-line="41" selection-end-column="1" />
         </state>
       </provider>
     </entry>
