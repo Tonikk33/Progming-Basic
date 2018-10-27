@@ -2,18 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32519820-d714-4dbb-adea-e213bcf5a0fb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/drawingFiguresWithLoops/DFWL01RectangleOf10x10Stars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/drawingFiguresWithLoops/DFWL02RectangleOfNxNStars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/drawingFiguresWithLoops/DFWL03SquareOfStars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/drawingFiguresWithLoops/DFWL04TriangleOfDollars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/drawingFiguresWithLoops/DFWL05SquareFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/drawingFiguresWithLoops/DFWL06RhombusOfStars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/drawingFiguresWithLoops/DFWL07ChristmasTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/drawingFiguresWithLoops/DFWL08Sunglasses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/drawingFiguresWithLoops/DFWL09House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/drawingFiguresWithLoops/DFWL10Diamond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/AdvancedLoops/AL01Numbers1ToNWithStep3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/AdvancedLoops/AL02NumbersNTo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/AdvancedLoops/AL03PowersOfTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/AdvancedLoops/AL04EvenPowersOf2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/AdvancedLoops/AL05Sequence2kPlus1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/AdvancedLoops/AL06NumberInRange1To100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/AdvancedLoops/AL07GreatestCommonDivisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/AdvancedLoops/AL08Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/AdvancedLoops/AL09SumDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/AdvancedLoops/AL10CheckPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/AdvancedLoops/AL11EnterEvenNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/AdvancedLoops/AL12Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/AdvancedLoops/AL13NumberPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/AdvancedLoops/AL14NumberTable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/simpleLoops/SL10HalfSumElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/simpleLoops/SL10HalfSumElement.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,50 +28,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DFWL08Sunglasses.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/drawingFiguresWithLoops/DFWL08Sunglasses.java">
+      <file leaf-file-name="AL05Sequence2kPlus1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/AdvancedLoops/AL05Sequence2kPlus1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="27" column="102" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="102" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="200">
+              <caret line="10" column="18" selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DFWL09House.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/drawingFiguresWithLoops/DFWL09House.java">
+      <file leaf-file-name="AL06NumberInRange1To100.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/AdvancedLoops/AL06NumberInRange1To100.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="36" column="9" lean-forward="true" selection-end-line="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="220">
+              <caret line="11" column="28" selection-end-line="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DFWL10Diamond.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/drawingFiguresWithLoops/DFWL10Diamond.java">
+      <file leaf-file-name="AL07GreatestCommonDivisor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/AdvancedLoops/AL07GreatestCommonDivisor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="26" column="44" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="300">
+              <caret line="15" column="9" selection-end-line="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DFWL07ChristmasTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/drawingFiguresWithLoops/DFWL07ChristmasTree.java">
+      <file leaf-file-name="AL08Factorial.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/AdvancedLoops/AL08Factorial.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="17" column="104" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="104" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="200">
+              <caret line="10" column="14" lean-forward="true" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AL09SumDigits.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/AdvancedLoops/AL09SumDigits.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="164">
+              <caret line="9" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AL10CheckPrime.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/AdvancedLoops/AL10CheckPrime.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="13" column="22" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AL11EnterEvenNumber.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/AdvancedLoops/AL11EnterEvenNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="22" column="32" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AL12Fibonacci.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/AdvancedLoops/AL12Fibonacci.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="21" column="35" lean-forward="true" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AL13NumberPyramid.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/AdvancedLoops/AL13NumberPyramid.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AL14NumberTable.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/AdvancedLoops/AL14NumberTable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -88,20 +133,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/company/simpleConditionalStatements/SCS01ExcellentResult.java" />
-        <option value="$PROJECT_DIR$/src/com/company/simpleConditionalStatements/SCS02ExcellentOrNot.java" />
-        <option value="$PROJECT_DIR$/src/com/company/simpleConditionalStatements/SCS03EvenOrOdd.java" />
-        <option value="$PROJECT_DIR$/src/com/company/simpleConditionalStatements/SCS04GreaterNumber.java" />
-        <option value="$PROJECT_DIR$/src/com/company/simpleConditionalStatements/SCS05Number1_9ToText.java" />
-        <option value="$PROJECT_DIR$/src/com/company/simpleConditionalStatements/SCS06BonusScore.java" />
-        <option value="$PROJECT_DIR$/src/com/company/simpleConditionalStatements/SCS07SumSeconds.java" />
-        <option value="$PROJECT_DIR$/src/com/company/simpleConditionalStatements/SCS08MetricConverter.java" />
-        <option value="$PROJECT_DIR$/src/com/company/simpleConditionalStatements/SCS09PasswordGuess.java" />
-        <option value="$PROJECT_DIR$/src/com/company/simpleConditionalStatements/SCS10Number100To200.java" />
-        <option value="$PROJECT_DIR$/src/com/company/simpleConditionalStatements/SCS11EqualWords.java" />
-        <option value="$PROJECT_DIR$/src/com/company/simpleConditionalStatements/SCS12SpeedInfo.java" />
-        <option value="$PROJECT_DIR$/src/com/company/simpleConditionalStatements/SCS13AreaOfFigures.java" />
-        <option value="$PROJECT_DIR$/src/com/company/simpleConditionalStatements/SCS14Time15Minutes.java" />
         <option value="$PROJECT_DIR$/src/com/company/simpleConditionalStatements/SCS15EqualNumbers.java" />
         <option value="$PROJECT_DIR$/src/com/company/simpleConditionalStatements/SCS16Number0To100ToText.java" />
         <option value="$PROJECT_DIR$/src/com/company/complexConditionalStatements/CCS01PersonalTitles.java" />
@@ -139,6 +170,20 @@
         <option value="$PROJECT_DIR$/src/com/company/drawingFiguresWithLoops/DFWL08Sunglasses.java" />
         <option value="$PROJECT_DIR$/src/com/company/drawingFiguresWithLoops/DFWL09House.java" />
         <option value="$PROJECT_DIR$/src/com/company/drawingFiguresWithLoops/DFWL10Diamond.java" />
+        <option value="$PROJECT_DIR$/src/com/company/AdvancedLoops/AL01Numbers1ToNWithStep3.java" />
+        <option value="$PROJECT_DIR$/src/com/company/AdvancedLoops/AL02NumbersNTo1.java" />
+        <option value="$PROJECT_DIR$/src/com/company/AdvancedLoops/AL03PowersOfTwo.java" />
+        <option value="$PROJECT_DIR$/src/com/company/AdvancedLoops/AL04EvenPowersOf2.java" />
+        <option value="$PROJECT_DIR$/src/com/company/AdvancedLoops/AL05Sequence2kPlus1.java" />
+        <option value="$PROJECT_DIR$/src/com/company/AdvancedLoops/AL06NumberInRange1To100.java" />
+        <option value="$PROJECT_DIR$/src/com/company/AdvancedLoops/AL07GreatestCommonDivisor.java" />
+        <option value="$PROJECT_DIR$/src/com/company/AdvancedLoops/AL08Factorial.java" />
+        <option value="$PROJECT_DIR$/src/com/company/AdvancedLoops/AL09SumDigits.java" />
+        <option value="$PROJECT_DIR$/src/com/company/AdvancedLoops/AL10CheckPrime.java" />
+        <option value="$PROJECT_DIR$/src/com/company/AdvancedLoops/AL11EnterEvenNumber.java" />
+        <option value="$PROJECT_DIR$/src/com/company/AdvancedLoops/AL12Fibonacci.java" />
+        <option value="$PROJECT_DIR$/src/com/company/AdvancedLoops/AL13NumberPyramid.java" />
+        <option value="$PROJECT_DIR$/src/com/company/AdvancedLoops/AL14NumberTable.java" />
       </list>
     </option>
   </component>
@@ -187,7 +232,7 @@
               <item name="basic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
-              <item name="drawingFiguresWithLoops" type="462c0819:PsiDirectoryNode" />
+              <item name="AdvancedLoops" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -322,71 +367,71 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DFWL10Diamond">
-    <configuration name="DFWL06RhombusOfStars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.drawingFiguresWithLoops.DFWL06RhombusOfStars" />
+  <component name="RunManager" selected="Application.AL14NumberTable">
+    <configuration name="AL10CheckPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.AdvancedLoops.AL10CheckPrime" />
       <module name="basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.drawingFiguresWithLoops.*" />
+          <option name="PATTERN" value="com.company.AdvancedLoops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="DFWL07ChristmasTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.drawingFiguresWithLoops.DFWL07ChristmasTree" />
+    <configuration name="AL11EnterEvenNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.AdvancedLoops.AL11EnterEvenNumber" />
       <module name="basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.drawingFiguresWithLoops.*" />
+          <option name="PATTERN" value="com.company.AdvancedLoops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="DFWL08Sunglasses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.drawingFiguresWithLoops.DFWL08Sunglasses" />
+    <configuration name="AL12Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.AdvancedLoops.AL12Fibonacci" />
       <module name="basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.drawingFiguresWithLoops.*" />
+          <option name="PATTERN" value="com.company.AdvancedLoops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="DFWL09House" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.drawingFiguresWithLoops.DFWL09House" />
+    <configuration name="AL13NumberPyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.AdvancedLoops.AL13NumberPyramid" />
       <module name="basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.drawingFiguresWithLoops.*" />
+          <option name="PATTERN" value="com.company.AdvancedLoops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="DFWL10Diamond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.drawingFiguresWithLoops.DFWL10Diamond" />
+    <configuration name="AL14NumberTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.AdvancedLoops.AL14NumberTable" />
       <module name="basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.drawingFiguresWithLoops.*" />
+          <option name="PATTERN" value="com.company.AdvancedLoops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.DFWL06RhombusOfStars" />
-      <item itemvalue="Application.DFWL07ChristmasTree" />
-      <item itemvalue="Application.DFWL08Sunglasses" />
-      <item itemvalue="Application.DFWL09House" />
-      <item itemvalue="Application.DFWL10Diamond" />
+      <item itemvalue="Application.AL10CheckPrime" />
+      <item itemvalue="Application.AL11EnterEvenNumber" />
+      <item itemvalue="Application.AL12Fibonacci" />
+      <item itemvalue="Application.AL13NumberPyramid" />
+      <item itemvalue="Application.AL14NumberTable" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DFWL10Diamond" />
-        <item itemvalue="Application.DFWL09House" />
-        <item itemvalue="Application.DFWL08Sunglasses" />
-        <item itemvalue="Application.DFWL07ChristmasTree" />
-        <item itemvalue="Application.DFWL06RhombusOfStars" />
+        <item itemvalue="Application.AL14NumberTable" />
+        <item itemvalue="Application.AL13NumberPyramid" />
+        <item itemvalue="Application.AL12Fibonacci" />
+        <item itemvalue="Application.AL11EnterEvenNumber" />
+        <item itemvalue="Application.AL10CheckPrime" />
       </list>
     </recent_temporary>
   </component>
@@ -400,7 +445,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540395470802</updated>
-      <workItem from="1540451267246" duration="24307000" />
+      <workItem from="1540451267246" duration="31589000" />
     </task>
     <task id="LOCAL-00001" summary="First tasks from Complex Conditional Statements">
       <created>1540454570845</created>
@@ -423,15 +468,21 @@
       <option name="project" value="LOCAL" />
       <updated>1540559663872</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Drawing figures whit loops complete all tasks">
+      <created>1540662415848</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1540662415848</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24307000" />
+    <option name="totallyTimeSpent" value="31589000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -443,7 +494,7 @@
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32905984" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32763532" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34045583" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Designer" order="2" />
@@ -503,7 +554,8 @@
     <MESSAGE value="First tasks from Complex Conditional Statements" />
     <MESSAGE value=" Complex Conditional Statements finished tasks" />
     <MESSAGE value="Simple Loops tasks 1 true 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Simple Loops tasks 1 true 10" />
+    <MESSAGE value="Drawing figures whit loops complete all tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Drawing figures whit loops complete all tasks" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -519,98 +571,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/simpleConditionalStatements/SCS01ExcellentResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/simpleConditionalStatements/SCS02ExcellentOrNot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="46" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/simpleConditionalStatements/SCS03EvenOrOdd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="35" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/simpleConditionalStatements/SCS04GreaterNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="19" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/simpleConditionalStatements/SCS05Number1_9ToText.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="40" column="50" selection-start-line="40" selection-start-column="50" selection-end-line="40" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/simpleConditionalStatements/SCS06BonusScore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="28" column="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/simpleConditionalStatements/SCS08MetricConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="54" column="23" selection-end-line="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/simpleConditionalStatements/SCS09PasswordGuess.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="47" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/simpleConditionalStatements/SCS10Number100To200.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="43" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/simpleConditionalStatements/SCS13AreaOfFigures.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/simpleConditionalStatements/SCS16Number0To100ToText.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/company/simpleConditionalStatements/SCS15EqualNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="34" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="73" lean-forward="true" selection-start-line="5" selection-start-column="73" selection-end-line="5" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/simpleConditionalStatements/SCS14Time15Minutes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="11" column="18" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/simpleConditionalStatements/SCS12SpeedInfo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
@@ -883,11 +843,109 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/drawingFiguresWithLoops/DFWL10Diamond.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="26" column="44" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
+        <state relative-caret-position="220">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/AdvancedLoops/AL01Numbers1ToNWithStep3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="1" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/AdvancedLoops/AL02NumbersNTo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="33" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/AdvancedLoops/AL03PowersOfTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/AdvancedLoops/AL04EvenPowersOf2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" lean-forward="true" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/AdvancedLoops/AL05Sequence2kPlus1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="18" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/AdvancedLoops/AL06NumberInRange1To100.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="28" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/AdvancedLoops/AL07GreatestCommonDivisor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="9" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/AdvancedLoops/AL08Factorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="14" lean-forward="true" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/AdvancedLoops/AL09SumDigits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="9" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/AdvancedLoops/AL10CheckPrime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="13" column="22" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/AdvancedLoops/AL11EnterEvenNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="22" column="32" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/AdvancedLoops/AL12Fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="21" column="35" lean-forward="true" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/AdvancedLoops/AL13NumberPyramid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/AdvancedLoops/AL14NumberTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
         </state>
       </provider>
     </entry>
